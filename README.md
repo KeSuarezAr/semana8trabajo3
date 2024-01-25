@@ -38,7 +38,3 @@ on<TaskEvent>((event, emit) {
 
 - Separación de la lógica de negocio de la interfaz de usuario, lo que facilita las pruebas y la reutilización del código.
 - Uso de flujos para manejar eventos y estados, lo que permite una programación reactiva y asincrónica.
-
-```
-Este README proporciona una breve introducción a los conceptos clave de BLoC en Flutter, incluyendo eventos, estados y transiciones, y menciona algunas de las ventajas de usar BLoC.
-```
